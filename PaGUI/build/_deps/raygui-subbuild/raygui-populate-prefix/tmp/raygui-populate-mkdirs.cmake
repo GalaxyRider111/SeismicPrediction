@@ -4,19 +4,19 @@
 cmake_minimum_required(VERSION 3.5)
 
 file(MAKE_DIRECTORY
-  "/home/galaxy/SeismicPrediction/PaGUI/build/_deps/raygui-src"
-  "/home/galaxy/SeismicPrediction/PaGUI/build/_deps/raygui-build"
-  "/home/galaxy/SeismicPrediction/PaGUI/build/_deps/raygui-subbuild/raygui-populate-prefix"
-  "/home/galaxy/SeismicPrediction/PaGUI/build/_deps/raygui-subbuild/raygui-populate-prefix/tmp"
-  "/home/galaxy/SeismicPrediction/PaGUI/build/_deps/raygui-subbuild/raygui-populate-prefix/src/raygui-populate-stamp"
-  "/home/galaxy/SeismicPrediction/PaGUI/build/_deps/raygui-subbuild/raygui-populate-prefix/src"
-  "/home/galaxy/SeismicPrediction/PaGUI/build/_deps/raygui-subbuild/raygui-populate-prefix/src/raygui-populate-stamp"
+  "D:/SeismicPrediction/PaGUI/build/_deps/raygui-src"
+  "D:/SeismicPrediction/PaGUI/build/_deps/raygui-build"
+  "D:/SeismicPrediction/PaGUI/build/_deps/raygui-subbuild/raygui-populate-prefix"
+  "D:/SeismicPrediction/PaGUI/build/_deps/raygui-subbuild/raygui-populate-prefix/tmp"
+  "D:/SeismicPrediction/PaGUI/build/_deps/raygui-subbuild/raygui-populate-prefix/src/raygui-populate-stamp"
+  "D:/SeismicPrediction/PaGUI/build/_deps/raygui-subbuild/raygui-populate-prefix/src"
+  "D:/SeismicPrediction/PaGUI/build/_deps/raygui-subbuild/raygui-populate-prefix/src/raygui-populate-stamp"
 )
 
-set(configSubDirs )
+set(configSubDirs Debug)
 foreach(subDir IN LISTS configSubDirs)
-    file(MAKE_DIRECTORY "/home/galaxy/SeismicPrediction/PaGUI/build/_deps/raygui-subbuild/raygui-populate-prefix/src/raygui-populate-stamp/${subDir}")
+    file(MAKE_DIRECTORY "D:/SeismicPrediction/PaGUI/build/_deps/raygui-subbuild/raygui-populate-prefix/src/raygui-populate-stamp/${subDir}")
 endforeach()
 if(cfgdir)
-  file(MAKE_DIRECTORY "/home/galaxy/SeismicPrediction/PaGUI/build/_deps/raygui-subbuild/raygui-populate-prefix/src/raygui-populate-stamp${cfgdir}") # cfgdir has leading slash
+  file(MAKE_DIRECTORY "D:/SeismicPrediction/PaGUI/build/_deps/raygui-subbuild/raygui-populate-prefix/src/raygui-populate-stamp${cfgdir}") # cfgdir has leading slash
 endif()

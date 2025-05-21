@@ -1,7 +1,7 @@
 # Distributed under the OSI-approved BSD 3-Clause License.  See accompanying
 # file Copyright.txt or https://cmake.org/licensing for details.
 
-cmake_minimum_required(VERSION 3.28.3)
+cmake_minimum_required(VERSION 3.27.2-msvc1)
 
 # Reject any attempt to use a toolchain file. We must not use one because
 # we could be downloading it here. If the CMAKE_TOOLCHAIN_FILE environment
@@ -20,8 +20,8 @@ project(raygui-populate NONE)
 include(ExternalProject)
 ExternalProject_Add(raygui-populate
                      "UPDATE_DISCONNECTED" "False" "DOWNLOAD_EXTRACT_TIMESTAMP" "TRUE" "EXTERNALPROJECT_INTERNAL_ARGUMENT_SEPARATOR" "URL" "https://github.com/raysan5/raygui/archive/refs/tags/4.0.tar.gz"
-                    SOURCE_DIR          "/home/galaxy/SeismicPrediction/PaGUI/build/_deps/raygui-src"
-                    BINARY_DIR          "/home/galaxy/SeismicPrediction/PaGUI/build/_deps/raygui-build"
+                    SOURCE_DIR          "D:/SeismicPrediction/PaGUI/build/_deps/raygui-src"
+                    BINARY_DIR          "D:/SeismicPrediction/PaGUI/build/_deps/raygui-build"
                     CONFIGURE_COMMAND   ""
                     BUILD_COMMAND       ""
                     INSTALL_COMMAND     ""

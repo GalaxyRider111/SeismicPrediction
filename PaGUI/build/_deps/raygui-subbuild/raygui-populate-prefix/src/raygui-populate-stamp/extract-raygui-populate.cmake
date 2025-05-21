@@ -5,8 +5,8 @@ cmake_minimum_required(VERSION 3.5)
 
 # Make file names absolute:
 #
-get_filename_component(filename "/home/galaxy/SeismicPrediction/PaGUI/build/_deps/raygui-subbuild/raygui-populate-prefix/src/4.0.tar.gz" ABSOLUTE)
-get_filename_component(directory "/home/galaxy/SeismicPrediction/PaGUI/build/_deps/raygui-src" ABSOLUTE)
+get_filename_component(filename "D:/SeismicPrediction/PaGUI/build/_deps/raygui-subbuild/raygui-populate-prefix/src/4.0.tar.gz" ABSOLUTE)
+get_filename_component(directory "D:/SeismicPrediction/PaGUI/build/_deps/raygui-src" ABSOLUTE)
 
 message(STATUS "extracting...
      src='${filename}'

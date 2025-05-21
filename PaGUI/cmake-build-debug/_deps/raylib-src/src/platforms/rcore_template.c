@@ -27,7 +27,7 @@
 *
 *   LICENSE: zlib/libpng
 *
-*   Copyright (c) 2013-2024 Ramon Santamaria (@raysan5) and contributors
+*   Copyright (c) 2013-2023 Ramon Santamaria (@raysan5) and contributors
 *
 *   This software is provided "as-is", without any express or implied warranty. In no event
 *   will the authors be held liable for any damages arising from the use of this software.
@@ -384,13 +384,6 @@ void SetMouseCursor(int cursor)
     TRACELOG(LOG_WARNING, "SetMouseCursor() not implemented on target platform");
 }
 
-// Get physical key name.
-const char *GetKeyName(int key)
-{
-    TRACELOG(LOG_WARNING, "GetKeyName() not implemented on target platform");
-    return "";
-}
-
 // Register all input events
 void PollInputEvents(void)
 {
@@ -427,8 +420,9 @@ void PollInputEvents(void)
         CORE.Input.Keyboard.keyRepeatInFrame[i] = 0;
     }
 
-    // TODO: Poll input events for current platform
+    // TODO: Poll input events for current plaform
 }
+
 
 //----------------------------------------------------------------------------------
 // Module Internal Functions Definition
@@ -567,13 +561,13 @@ int InitPlatform(void)
 
     // TODO: Initialize input events system
     // It could imply keyboard, mouse, gamepad, touch...
-    // Depending on the platform libraries/SDK it could use a callback mechanism
+    // Depending on the platform libraries/SDK it could use a callbacks mechanims
     // For system events and inputs evens polling on a per-frame basis, use PollInputEvents()
     //----------------------------------------------------------------------------
     // ...
     //----------------------------------------------------------------------------
 
-    // TODO: Initialize timing system
+    // TODO: Initialize timming system
     //----------------------------------------------------------------------------
     InitTimer();
     //----------------------------------------------------------------------------

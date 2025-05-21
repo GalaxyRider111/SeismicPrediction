@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\SeismicPrediction\PaGUI\build\CMakeFiles\8af3032518ae93076f1758bb140d430d\PACKAGE_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{BCCB9177-5FA5-3888-8A78-1C0150F62267}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

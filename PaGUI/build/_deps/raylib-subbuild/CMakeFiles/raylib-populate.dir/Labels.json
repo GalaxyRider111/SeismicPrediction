@@ -2,37 +2,37 @@
 	"sources" : 
 	[
 		{
-			"file" : "/home/galaxy/SeismicPrediction/PaGUI/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate"
+			"file" : "D:/SeismicPrediction/PaGUI/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate"
 		},
 		{
-			"file" : "/home/galaxy/SeismicPrediction/PaGUI/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.rule"
+			"file" : "D:/SeismicPrediction/PaGUI/build/_deps/raylib-subbuild/CMakeFiles/c236e028968d4d74ecbe31c8ec50d32a/raylib-populate.rule"
 		},
 		{
-			"file" : "/home/galaxy/SeismicPrediction/PaGUI/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete.rule"
+			"file" : "D:/SeismicPrediction/PaGUI/build/_deps/raylib-subbuild/CMakeFiles/53230c5a491d506739490ecac32b244c/raylib-populate-complete.rule"
 		},
 		{
-			"file" : "/home/galaxy/SeismicPrediction/PaGUI/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build.rule"
+			"file" : "D:/SeismicPrediction/PaGUI/build/_deps/raylib-subbuild/CMakeFiles/56578fbcf21b94b3a474c5e065c366fc/raylib-populate-build.rule"
 		},
 		{
-			"file" : "/home/galaxy/SeismicPrediction/PaGUI/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure.rule"
+			"file" : "D:/SeismicPrediction/PaGUI/build/_deps/raylib-subbuild/CMakeFiles/56578fbcf21b94b3a474c5e065c366fc/raylib-populate-configure.rule"
 		},
 		{
-			"file" : "/home/galaxy/SeismicPrediction/PaGUI/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download.rule"
+			"file" : "D:/SeismicPrediction/PaGUI/build/_deps/raylib-subbuild/CMakeFiles/56578fbcf21b94b3a474c5e065c366fc/raylib-populate-download.rule"
 		},
 		{
-			"file" : "/home/galaxy/SeismicPrediction/PaGUI/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install.rule"
+			"file" : "D:/SeismicPrediction/PaGUI/build/_deps/raylib-subbuild/CMakeFiles/56578fbcf21b94b3a474c5e065c366fc/raylib-populate-install.rule"
 		},
 		{
-			"file" : "/home/galaxy/SeismicPrediction/PaGUI/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir.rule"
+			"file" : "D:/SeismicPrediction/PaGUI/build/_deps/raylib-subbuild/CMakeFiles/56578fbcf21b94b3a474c5e065c366fc/raylib-populate-mkdir.rule"
 		},
 		{
-			"file" : "/home/galaxy/SeismicPrediction/PaGUI/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch.rule"
+			"file" : "D:/SeismicPrediction/PaGUI/build/_deps/raylib-subbuild/CMakeFiles/56578fbcf21b94b3a474c5e065c366fc/raylib-populate-patch.rule"
 		},
 		{
-			"file" : "/home/galaxy/SeismicPrediction/PaGUI/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test.rule"
+			"file" : "D:/SeismicPrediction/PaGUI/build/_deps/raylib-subbuild/CMakeFiles/56578fbcf21b94b3a474c5e065c366fc/raylib-populate-test.rule"
 		},
 		{
-			"file" : "/home/galaxy/SeismicPrediction/PaGUI/build/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update.rule"
+			"file" : "D:/SeismicPrediction/PaGUI/build/_deps/raylib-subbuild/CMakeFiles/56578fbcf21b94b3a474c5e065c366fc/raylib-populate-update.rule"
 		}
 	],
 	"target" : 

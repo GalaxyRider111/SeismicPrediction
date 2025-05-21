@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <raylib.h>
 #define RAYGUI_IMPLEMENTATION
+#include <stdlib.h>
+
 #include "raygui.h"
 #include "Cutremur.h"
 
@@ -122,7 +124,7 @@ int main()
         if (actiuneAfisareaDatelor) {
 
             //system("cd ..&& Predictie_Cutremure.exe");
-            system("main.exe");
+            system("\"main.exe\"");
 
             actiuneAfisareaDatelor = false;
         }

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="D:\SeismicPrediction\PaGUI\build\_deps\raylib-subbuild\CMakeFiles\56578fbcf21b94b3a474c5e065c366fc\raylib-populate-mkdir.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SeismicPrediction\PaGUI\build\_deps\raylib-subbuild\CMakeFiles\56578fbcf21b94b3a474c5e065c366fc\raylib-populate-download.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SeismicPrediction\PaGUI\build\_deps\raylib-subbuild\CMakeFiles\56578fbcf21b94b3a474c5e065c366fc\raylib-populate-update.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SeismicPrediction\PaGUI\build\_deps\raylib-subbuild\CMakeFiles\56578fbcf21b94b3a474c5e065c366fc\raylib-populate-patch.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SeismicPrediction\PaGUI\build\_deps\raylib-subbuild\CMakeFiles\56578fbcf21b94b3a474c5e065c366fc\raylib-populate-configure.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SeismicPrediction\PaGUI\build\_deps\raylib-subbuild\CMakeFiles\56578fbcf21b94b3a474c5e065c366fc\raylib-populate-build.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SeismicPrediction\PaGUI\build\_deps\raylib-subbuild\CMakeFiles\56578fbcf21b94b3a474c5e065c366fc\raylib-populate-install.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SeismicPrediction\PaGUI\build\_deps\raylib-subbuild\CMakeFiles\56578fbcf21b94b3a474c5e065c366fc\raylib-populate-test.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SeismicPrediction\PaGUI\build\_deps\raylib-subbuild\CMakeFiles\53230c5a491d506739490ecac32b244c\raylib-populate-complete.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SeismicPrediction\PaGUI\build\_deps\raylib-subbuild\CMakeFiles\c236e028968d4d74ecbe31c8ec50d32a\raylib-populate.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="D:\SeismicPrediction\PaGUI\build\_deps\raylib-subbuild\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="D:\SeismicPrediction\PaGUI\build\_deps\raylib-subbuild\CMakeFiles\raylib-populate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{05DC49FE-F400-332E-A8E4-4B6B51C01F12}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

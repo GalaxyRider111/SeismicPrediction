@@ -1,0 +1,21 @@
+# ninja log v6
+3	76	7694997454587136	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	4427e205abc32b05
+3	76	7694997454587136	D:/SeismicPrediction/PaGUI/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	4427e205abc32b05
+77	36075	7694997814609700	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	a48928a432aadbe6
+77	36075	7694997814609700	D:/SeismicPrediction/PaGUI/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	a48928a432aadbe6
+36075	36206	7694997814649504	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	8adabd00264eaf32
+36075	36206	7694997814649504	D:/SeismicPrediction/PaGUI/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	8adabd00264eaf32
+36206	36249	7694997816344205	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	be4087a029fd2928
+36206	36249	7694997816344205	D:/SeismicPrediction/PaGUI/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	be4087a029fd2928
+36249	36294	7694997816797040	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	4fb4d52d9dc78415
+36249	36294	7694997816797040	D:/SeismicPrediction/PaGUI/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	4fb4d52d9dc78415
+36294	36339	7694997817246182	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	88c665e1de90656c
+36294	36339	7694997817246182	D:/SeismicPrediction/PaGUI/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	88c665e1de90656c
+36339	36385	7694997817705130	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	5041c23976b7729c
+36339	36385	7694997817705130	D:/SeismicPrediction/PaGUI/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	5041c23976b7729c
+36385	36428	7694997818142004	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	d9ffe9770d00faa8
+36385	36428	7694997818142004	D:/SeismicPrediction/PaGUI/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	d9ffe9770d00faa8
+36428	36489	7694997818748012	CMakeFiles/raylib-populate-complete	368c7805edafc8c4
+36428	36489	7694997818748012	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	368c7805edafc8c4
+36428	36489	7694997818748012	D:/SeismicPrediction/PaGUI/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete	368c7805edafc8c4
+36428	36489	7694997818748012	D:/SeismicPrediction/PaGUI/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	368c7805edafc8c4

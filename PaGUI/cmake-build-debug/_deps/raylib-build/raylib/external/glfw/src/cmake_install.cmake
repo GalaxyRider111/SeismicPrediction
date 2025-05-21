@@ -1,4 +1,4 @@
-# Install script for directory: C:/Users/mihai/Desktop/PaGUI/cmake-build-debug/_deps/raylib-src/src/external/glfw/src
+# Install script for directory: D:/SeismicPrediction/PaGUI/cmake-build-debug/_deps/raylib-src/src/external/glfw/src
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,6 +34,6 @@ endif()
 
 # Set path to fallback-tool for dependency-resolution.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "D:/Program Files/JetBrains/CLion 2024.3.5/bin/mingw/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "C:/Program Files/JetBrains/CLion 2024.3.2/bin/mingw/bin/objdump.exe")
 endif()
 

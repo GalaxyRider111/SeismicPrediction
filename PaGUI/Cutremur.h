@@ -34,8 +34,12 @@ void cutremure() {
     int size = sizeof(numar_cutremure) / sizeof(numar_cutremure[0]);
     int window_size = 3;
 
-    float rez_cutremure[size];
-    float rez_magnitudine[size];
+    float *rez_cutremure  = malloc(size * sizeof *rez_cutremure);
+    float *rez_magnitudine = malloc(size * sizeof *rez_magnitudine);
+    if (!rez_cutremure || !rez_magnitudine) {
+        fprintf(stderr, "Out of memory\n");
+        return;
+    }
 
     for (int i = 0; i < size; i++) {
         rez_cutremure[i] = -1;
@@ -69,6 +73,9 @@ void cutremure() {
             fprintf(fp, "\n");
     }
 
+
+    free(rez_magnitudine);
+    free(rez_cutremure);
     fclose(fp);
     printf("Data SAVED\n");
 

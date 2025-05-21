@@ -1,8 +1,8 @@
 #include <stdio.h>
 #include <raylib.h>
 #define RAYGUI_IMPLEMENTATION
-#include <raygui.h>
-#include <Cutremur.h>
+#include "raygui.h"
+#include "Cutremur.h"
 
 #define WIDTH 1200
 #define HEIGHT 800
@@ -61,7 +61,7 @@ int main()
             Rectangle boxBounds = { 20, 450, 500, 300 };
             bool closed = ShowCustomMessageBox(boxBounds,
                                                "#191#Despre Program",
-                                               "Creat de: \nCraciun Silviu-Mihai\nPencescu Vlad - Theodor\nPetre Ioan-Iulian\nOprea Mihnea\nVasile Milete-Justin\n\n\nLink catre data provider: https://www.infp.ro",
+                                               "Creat de: \nCraciun Silviu-Mihai\nPencescu Vlad - Theodor\nPetre Ioan-Iulian\nOprea Mihnea\nVasile Milete-Justin\nUdrea Rares-Gabriel\n\n\nLink catre data provider: https://www.infp.ro",
                                                &result);
             if (closed) showBox = false;
         }
@@ -122,7 +122,7 @@ int main()
         if (actiuneAfisareaDatelor) {
 
             //system("cd ..&& Predictie_Cutremure.exe");
-            system("python main.py");
+            system("main.exe");
 
             actiuneAfisareaDatelor = false;
         }
